@@ -1,6 +1,6 @@
-#LYIT - SWDE_IT803 - LY_ICSWD_B: Software Development (2021/22).
+<h1>LYIT - SWDE_IT803 - LY_ICSWD_B: Software Development (2021/22).</h1>
 
-##CA1 - Shapes Manager - Software Development Module
+<h2>CA1 - Shapes Manager - Software Development Module</h2>
 
 <strong>Name:</strong> Fabio De Araujo - L00169711.
 
